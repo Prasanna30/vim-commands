@@ -1,6 +1,7 @@
 # vim-commands
 vim commands
 ```
+Open a new file or existing file by typing in command line " vim <filename> " example " vim test.java"
 press "i" to go into insert mode
 press "esc" to go into command mode
 in command mode press ":w" to write a file
